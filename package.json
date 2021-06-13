@@ -1,0 +1,28 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^10.0.0",
+    "ejs": "^2.7.4",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkSoul26/DailyBlogs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkSoul26/DailyBlogs/issues"
+  },
+  "homepage": "https://github.com/DarkSoul26/DailyBlogs#readme",
+  "description": ""
+}
